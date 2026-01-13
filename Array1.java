@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class wow{
+public class Array1{
     public static void main(String[]args){
 
         int[] numbers = new int[10];
